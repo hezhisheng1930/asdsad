@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.55141c148b.css","mappings":"AAEA,UAEQ,wBADR","sources":["webpack://WEBPACKStudy/./src/style/index.less"],"sourcesContent":["@import '~antd/dist/antd.css';\n\nhtml {\n    body {\n        background-color: #008c8c;\n    }\n}\n"],"names":[],"sourceRoot":""}
